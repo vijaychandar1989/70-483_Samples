@@ -25,3 +25,9 @@ X:\MCSDTestApp\MCSDTestApp\obj\Debug\MCSDTestApp.csprojResolveAssemblyReference.
 Y:\Google Drive\MCSDTestApp\MCSDTestApp\bin\Debug\MCSDTestApp.exe
 Y:\Google Drive\MCSDTestApp\MCSDTestApp\bin\Debug\MCSDTestApp.pdb
 Y:\Google Drive\MCSDTestApp\MCSDTestApp\obj\Debug\MCSDTestApp.csprojResolveAssemblyReference.cache
+C:\GitHub\70-483_Samples\MCSDTestApp\bin\Debug\MCSDTestApp.exe.config
+C:\GitHub\70-483_Samples\MCSDTestApp\obj\Debug\MCSDTestApp.exe
+C:\GitHub\70-483_Samples\MCSDTestApp\obj\Debug\MCSDTestApp.pdb
+C:\GitHub\70-483_Samples\MCSDTestApp\bin\Debug\MCSDTestApp.exe
+C:\GitHub\70-483_Samples\MCSDTestApp\bin\Debug\MCSDTestApp.pdb
+C:\GitHub\70-483_Samples\MCSDTestApp\obj\Debug\MCSDTestApp.csprojResolveAssemblyReference.cache
